@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c2221598-f078-4310-82f6-aed2a006194d")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 133.35 88.9)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "12c2dede-18ee-4a62-9b3f-2a242fe2e990")
+		(property "Sheetname" "connectors"
+			(at 133.35 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 133.35 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 88.9)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7608910d-1e87-4536-be60-73310a34b1c1")
+		(property "Sheetname" "pinout2"
+			(at 100.33 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pinout.kicad_sch"
+			(at 100.33 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 62.23)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "916a1e8f-bf41-4c79-9025-473ebee52cc2")
+		(property "Sheetname" "config"
+			(at 133.35 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "config.kicad_sch"
+			(at 133.35 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 88.9)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b5b7468d-6948-4dcb-80cf-25f6a7201ce4")
+		(property "Sheetname" "mgt"
+			(at 67.31 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mgt.kicad_sch"
+			(at 67.31 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 62.23)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bd10cccd-3037-4212-9e2b-2756ea7018a0")
+		(property "Sheetname" "pinout"
+			(at 100.33 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pinout.kicad_sch"
+			(at 100.33 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 67.31 62.23)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ef254d9f-e3cf-4afb-9e7f-0606aeebb875")
+		(property "Sheetname" "power"
+			(at 67.31 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 67.31 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

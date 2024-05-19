@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Panasonic_connector")(type "KiCad")(uri "${KIPRJMOD}/Panasonic_connector.kicad_sym")(options "")(descr ""))
+)
