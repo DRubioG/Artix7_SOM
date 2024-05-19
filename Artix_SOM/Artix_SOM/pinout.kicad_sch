@@ -12413,7 +12413,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 119.38) (xy 241.3 119.38)
+			(xy 231.14 119.38) (xy 241.3 119.38)
 		)
 		(stroke
 			(width 0)
@@ -14303,7 +14303,7 @@
 	)
 	(global_label "FPGA_CSO"
 		(shape bidirectional)
-		(at 232.41 119.38 180)
+		(at 231.14 119.38 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14312,7 +14312,7 @@
 		)
 		(uuid "79543f49-7c09-4546-82ab-5fec7fe886bd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.41 119.38 0)
+			(at 231.14 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)

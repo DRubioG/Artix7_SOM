@@ -2230,7 +2230,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Panasonic_connector:AXK6A2337YG")
 		(lib_id "Panasonic_connector:AXK6A2337YG")
 		(at 148.59 133.35 0)
 		(unit 1)
@@ -2653,7 +2652,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Panasonic_connector:AXK6A2337YG")
 		(lib_id "Panasonic_connector:AXK6A2337YG")
 		(at 292.1 134.62 0)
 		(unit 1)
