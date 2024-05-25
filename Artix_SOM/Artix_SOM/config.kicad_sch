@@ -11409,10 +11409,28 @@
 		(uuid "4580986b-40dd-4342-a534-57c73ce3df6e")
 	)
 	(junction
+		(at 160.02 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c8e0435-dcb4-4025-af96-84fc68237700")
+	)
+	(junction
+		(at 160.02 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "543aa769-d327-4e58-b49c-32378339f658")
+	)
+	(junction
 		(at 196.85 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "975b62d0-727c-4055-96f5-a9501ad794ff")
+	)
+	(junction
+		(at 160.02 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b01f5e3f-2487-4df8-a041-268d4983619c")
 	)
 	(junction
 		(at 191.77 93.98)
@@ -11484,6 +11502,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 132.08) (xy 160.02 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12de8c63-616f-4948-aa27-8a863db7216d")
+	)
+	(wire
+		(pts
 			(xy 153.67 124.46) (xy 158.75 124.46)
 		)
 		(stroke
@@ -11504,7 +11532,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 134.62) (xy 158.75 134.62)
+			(xy 153.67 134.62) (xy 160.02 134.62)
 		)
 		(stroke
 			(width 0)
@@ -11544,17 +11572,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 142.24) (xy 158.75 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2ef2f862-a37c-45c5-9ec0-e5ee94d9c570")
-	)
-	(wire
-		(pts
-			(xy 153.67 132.08) (xy 158.75 132.08)
+			(xy 153.67 132.08) (xy 160.02 132.08)
 		)
 		(stroke
 			(width 0)
@@ -11601,16 +11619,6 @@
 			(type default)
 		)
 		(uuid "4d1d242b-100d-4463-8121-cacd17da69f0")
-	)
-	(wire
-		(pts
-			(xy 153.67 139.7) (xy 158.75 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51008479-3f32-47c8-8408-af1ae3ff95e7")
 	)
 	(wire
 		(pts
@@ -11664,6 +11672,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 139.7) (xy 160.02 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a78408f-2672-4cf0-bca4-870ab1e6277b")
+	)
+	(wire
+		(pts
 			(xy 153.67 83.82) (xy 160.02 83.82)
 		)
 		(stroke
@@ -11681,6 +11699,16 @@
 			(type default)
 		)
 		(uuid "7747c642-b59e-4455-a6fb-ea5e4de4bea1")
+	)
+	(wire
+		(pts
+			(xy 153.67 142.24) (xy 160.02 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78f4717b-f1db-428d-bb84-e6ad6461a3bd")
 	)
 	(wire
 		(pts
@@ -11721,6 +11749,16 @@
 			(type default)
 		)
 		(uuid "844a36e1-aa70-44f4-8b2d-1d5f8bad630e")
+	)
+	(wire
+		(pts
+			(xy 160.02 139.7) (xy 160.02 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98bf2a06-d757-4427-a188-0370f1c14041")
 	)
 	(wire
 		(pts
@@ -11834,6 +11872,16 @@
 	)
 	(wire
 		(pts
+			(xy 160.02 142.24) (xy 160.02 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee7e175e-7410-4132-804e-17746f7a00c5")
+	)
+	(wire
+		(pts
 			(xy 153.67 88.9) (xy 160.02 88.9)
 		)
 		(stroke
@@ -11841,6 +11889,16 @@
 			(type default)
 		)
 		(uuid "ef0e80a0-9f81-4658-95c0-ecc33a04160e")
+	)
+	(wire
+		(pts
+			(xy 160.02 134.62) (xy 160.02 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f32645f2-e5df-49a8-a295-98adf003fb58")
 	)
 	(wire
 		(pts
@@ -11928,28 +11986,6 @@
 			)
 		)
 	)
-	(global_label "VREFN"
-		(shape input)
-		(at 158.75 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "40448837-5fe5-4fdc-a6e9-6ee8ee57aeee")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 167.6619 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VP"
 		(shape input)
 		(at 158.75 124.46 0)
@@ -11988,72 +12024,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DXN"
-		(shape input)
-		(at 158.75 142.24 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "63c3b697-8761-4af1-9f6c-a4e0d0724121")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.5452 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "DXP"
-		(shape input)
-		(at 158.75 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8e1adb0b-cb32-4329-a915-8e2ccd61d88a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 165.4847 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VREFP"
-		(shape input)
-		(at 158.75 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "af1e2dc3-f597-43ea-b332-d6219bd2cc59")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 167.6014 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -14997,6 +14967,72 @@
 			(project "Artix_SOM"
 				(path "/c2221598-f078-4310-82f6-aed2a006194d/916a1e8f-bf41-4c79-9025-473ebee52cc2"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 160.02 144.78 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f3100f09-bc42-495f-a71d-5e2abbe2e290")
+		(property "Reference" "#PWR097"
+			(at 160.02 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 157.734 149.098 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 160.02 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 160.02 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e883a8bf-bc91-4731-9a3d-694b7765daac")
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d/916a1e8f-bf41-4c79-9025-473ebee52cc2"
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)

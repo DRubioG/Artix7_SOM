@@ -44,6 +44,44 @@
 		)
 	)
 	(sheet
+		(at 167.64 62.23)
+		(size 29.21 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "48161e20-27a9-498e-8342-010cfb478f71")
+		(property "Sheetname" "ddr"
+			(at 167.64 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ddr.kicad_sch"
+			(at 167.64 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 100.33 88.9)
 		(size 29.21 17.78)
 		(fields_autoplaced yes)
