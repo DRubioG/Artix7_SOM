@@ -427,7 +427,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "SOM_library"
+    ]
   },
   "meta": {
     "filename": "Artix_SOM.kicad_pro",
