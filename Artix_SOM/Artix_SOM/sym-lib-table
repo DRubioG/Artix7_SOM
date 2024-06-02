@@ -3,4 +3,5 @@
   (lib (name "Panasonic_connector")(type "KiCad")(uri "${KIPRJMOD}/Panasonic_connector.kicad_sym")(options "")(descr ""))
   (lib (name "DDR")(type "KiCad")(uri "${KIPRJMOD}/DDR.kicad_sym")(options "")(descr ""))
   (lib (name "SOM_library")(type "KiCad")(uri "${KIPRJMOD}/SOM_library.kicad_sym")(options "")(descr ""))
+  (lib (name "Sources")(type "KiCad")(uri "${KIPRJMOD}/Sources.kicad_sym")(options "")(descr ""))
 )

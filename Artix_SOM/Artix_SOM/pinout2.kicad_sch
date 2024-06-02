@@ -13232,6 +13232,72 @@
 		)
 		(uuid "feadd19e-7209-4c90-9365-29fb6e814b5e")
 	)
+	(rectangle
+		(start 368.3 148.59)
+		(end 392.43 156.21)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 37caf3f5-fbcf-4c1f-a03e-0b6329649e86)
+	)
+	(rectangle
+		(start 45.72 80.01)
+		(end 72.39 218.44)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 66f8281e-0bb0-47f6-9ae8-a8d128544ce6)
+	)
+	(rectangle
+		(start 364.49 73.66)
+		(end 382.27 119.38)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid cc3ca474-884f-48a1-9d1e-662dce1f4c5d)
+	)
+	(text "RESETN"
+		(exclude_from_sim no)
+		(at 367.792 72.644 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "000fb07c-31c4-4b0f-8f5a-201225495025")
+	)
+	(text "CLK 100MHz"
+		(exclude_from_sim no)
+		(at 374.396 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "54c50c03-a453-4507-92f4-298f255e02ef")
+	)
+	(text "DDR pins"
+		(exclude_from_sim no)
+		(at 56.388 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fdf40cd7-3440-4c6e-9507-7a8f59031de1")
+	)
 	(global_label "B35_L17_N"
 		(shape bidirectional)
 		(at 346.71 180.34 0)
