@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "850c0667-07a1-4e76-ae5f-fa993a9f1707")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 35.56 91.44)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "378b7103-7f91-439f-b5c6-b23d7af893b0")
+		(property "Sheetname" "Test_B1"
+			(at 35.56 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Test_B1.kicad_sch"
+			(at 35.56 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM_test"
+				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 119.38)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3ed4869e-2713-443e-a8e5-93b174034aa6")
+		(property "Sheetname" "Test_B4"
+			(at 68.58 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Test_B4.kicad_sch"
+			(at 68.58 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM_test"
+				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 63.5)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8d5f8730-6ad4-4b53-a9a8-f09b304b689f")
+		(property "Sheetname" "Connector1"
+			(at 35.56 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connector.kicad_sch"
+			(at 35.56 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM_test"
+				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 35.56 119.38)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9c583fdf-73ab-4ea0-9807-d5a2367303f7")
+		(property "Sheetname" "Test_B3"
+			(at 35.56 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Test_B3.kicad_sch"
+			(at 35.56 135.2046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM_test"
+				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 63.5)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e9edbec8-a696-4019-930f-83caa81d1e08")
+		(property "Sheetname" "Connector2"
+			(at 68.58 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connector2.kicad_sch"
+			(at 68.58 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM_test"
+				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 68.58 91.44)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ef0b3a34-b0fa-41a0-a38c-0776160891df")
+		(property "Sheetname" "Test_B2"
+			(at 68.58 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Test_B2.kicad_sch"
+			(at 68.58 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM_test"
+				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
