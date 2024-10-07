@@ -2638,7 +2638,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin input line
 				(at -16.51 -76.2 0)
 				(length 5.08)
 				(name "ADC_N"
@@ -4415,7 +4415,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 73.66 0)
 				(length 5.08)
 				(name "PIN1_B3"
@@ -4433,7 +4433,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 63.5 180)
 				(length 5.08)
 				(name "PIN10_B3"
@@ -4451,7 +4451,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -50.8 180)
 				(length 5.08)
 				(name "PIN100_B3"
@@ -4469,7 +4469,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -53.34 0)
 				(length 5.08)
 				(name "PIN101_B3"
@@ -4487,7 +4487,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -53.34 180)
 				(length 5.08)
 				(name "PIN102_B3"
@@ -4505,7 +4505,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -55.88 0)
 				(length 5.08)
 				(name "PIN103_B3"
@@ -4523,7 +4523,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -55.88 180)
 				(length 5.08)
 				(name "PIN104_B3"
@@ -4541,7 +4541,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -58.42 0)
 				(length 5.08)
 				(name "PIN105_B3"
@@ -4559,7 +4559,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -58.42 180)
 				(length 5.08)
 				(name "PIN106_B3"
@@ -4577,7 +4577,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -60.96 0)
 				(length 5.08)
 				(name "PIN107_B3"
@@ -4595,7 +4595,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -60.96 180)
 				(length 5.08)
 				(name "PIN108_B3"
@@ -4613,7 +4613,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -63.5 0)
 				(length 5.08)
 				(name "PIN109_B3"
@@ -4631,7 +4631,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 60.96 0)
 				(length 5.08)
 				(name "PIN11_B3"
@@ -4649,7 +4649,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -63.5 180)
 				(length 5.08)
 				(name "PIN110_B3"
@@ -4667,7 +4667,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -66.04 0)
 				(length 5.08)
 				(name "PIN111_B3"
@@ -4685,7 +4685,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -66.04 180)
 				(length 5.08)
 				(name "PIN112_B3"
@@ -4703,7 +4703,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -68.58 0)
 				(length 5.08)
 				(name "PIN113_B3"
@@ -4721,7 +4721,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -68.58 180)
 				(length 5.08)
 				(name "PIN114_B3"
@@ -4739,7 +4739,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -71.12 0)
 				(length 5.08)
 				(name "PIN115_B3"
@@ -4757,7 +4757,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -71.12 180)
 				(length 5.08)
 				(name "PIN116_B3"
@@ -4775,7 +4775,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -73.66 0)
 				(length 5.08)
 				(name "PIN117_B3"
@@ -4793,7 +4793,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -73.66 180)
 				(length 5.08)
 				(name "PIN118_B3"
@@ -4811,7 +4811,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -76.2 0)
 				(length 5.08)
 				(name "PIN119_B3"
@@ -4829,7 +4829,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 60.96 180)
 				(length 5.08)
 				(name "PIN12_B3"
@@ -4847,7 +4847,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -76.2 180)
 				(length 5.08)
 				(name "PIN120_B3"
@@ -4865,25 +4865,7 @@
 					)
 				)
 			)
-			(pin input line
-				(at 16.51 25.4 180)
-				(length 5.08)
-				(name "PIN120_B3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "120"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 58.42 0)
 				(length 5.08)
 				(name "PIN13_B3"
@@ -4901,7 +4883,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 58.42 180)
 				(length 5.08)
 				(name "PIN14_B3"
@@ -4919,7 +4901,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 55.88 0)
 				(length 5.08)
 				(name "PIN15_B3"
@@ -4937,7 +4919,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 55.88 180)
 				(length 5.08)
 				(name "PIN16_B3"
@@ -4955,7 +4937,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 53.34 0)
 				(length 5.08)
 				(name "PIN17_B3"
@@ -4973,7 +4955,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 53.34 180)
 				(length 5.08)
 				(name "PIN18_B3"
@@ -4991,7 +4973,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 50.8 0)
 				(length 5.08)
 				(name "PIN19_B3"
@@ -5009,7 +4991,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 73.66 180)
 				(length 5.08)
 				(name "PIN2_B3"
@@ -5027,7 +5009,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 50.8 180)
 				(length 5.08)
 				(name "PIN20_B3"
@@ -5045,7 +5027,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 48.26 0)
 				(length 5.08)
 				(name "PIN21_B3"
@@ -5063,7 +5045,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 48.26 180)
 				(length 5.08)
 				(name "PIN22_B3"
@@ -5081,7 +5063,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 45.72 0)
 				(length 5.08)
 				(name "PIN23_B3"
@@ -5099,7 +5081,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 45.72 180)
 				(length 5.08)
 				(name "PIN24_B3"
@@ -5117,7 +5099,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 43.18 0)
 				(length 5.08)
 				(name "PIN25_B3"
@@ -5135,7 +5117,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 43.18 180)
 				(length 5.08)
 				(name "PIN26_B3"
@@ -5153,7 +5135,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 40.64 0)
 				(length 5.08)
 				(name "PIN27_B3"
@@ -5171,7 +5153,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 40.64 180)
 				(length 5.08)
 				(name "PIN28_B3"
@@ -5189,7 +5171,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 38.1 0)
 				(length 5.08)
 				(name "PIN29_B3"
@@ -5207,7 +5189,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 71.12 0)
 				(length 5.08)
 				(name "PIN3_B3"
@@ -5225,7 +5207,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 38.1 180)
 				(length 5.08)
 				(name "PIN30_B3"
@@ -5243,7 +5225,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 35.56 0)
 				(length 5.08)
 				(name "PIN31_B3"
@@ -5261,7 +5243,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 35.56 180)
 				(length 5.08)
 				(name "PIN32_B3"
@@ -5279,7 +5261,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 33.02 0)
 				(length 5.08)
 				(name "PIN33_B3"
@@ -5297,7 +5279,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 33.02 180)
 				(length 5.08)
 				(name "PIN34_B3"
@@ -5315,7 +5297,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 30.48 0)
 				(length 5.08)
 				(name "PIN35_B3"
@@ -5333,7 +5315,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 30.48 180)
 				(length 5.08)
 				(name "PIN36_B3"
@@ -5351,7 +5333,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 27.94 0)
 				(length 5.08)
 				(name "PIN37_B3"
@@ -5369,7 +5351,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 27.94 180)
 				(length 5.08)
 				(name "PIN38_B3"
@@ -5387,7 +5369,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 25.4 0)
 				(length 5.08)
 				(name "PIN39_B3"
@@ -5405,7 +5387,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 71.12 180)
 				(length 5.08)
 				(name "PIN4_B3"
@@ -5423,7 +5405,25 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
+				(at 16.51 25.4 180)
+				(length 5.08)
+				(name "PIN40_B3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
 				(at -16.51 22.86 0)
 				(length 5.08)
 				(name "PIN41_B3"
@@ -5441,7 +5441,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 22.86 180)
 				(length 5.08)
 				(name "PIN42_B3"
@@ -5459,7 +5459,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 20.32 0)
 				(length 5.08)
 				(name "PIN43_B3"
@@ -5477,7 +5477,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 20.32 180)
 				(length 5.08)
 				(name "PIN44_B3"
@@ -5495,7 +5495,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 17.78 0)
 				(length 5.08)
 				(name "PIN45_B3"
@@ -5513,7 +5513,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 17.78 180)
 				(length 5.08)
 				(name "PIN46_B3"
@@ -5531,7 +5531,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 15.24 0)
 				(length 5.08)
 				(name "PIN47_B3"
@@ -5549,7 +5549,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 15.24 180)
 				(length 5.08)
 				(name "PIN48_B3"
@@ -5567,7 +5567,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 12.7 0)
 				(length 5.08)
 				(name "PIN49_B3"
@@ -5585,7 +5585,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 68.58 0)
 				(length 5.08)
 				(name "PIN5_B3"
@@ -5603,7 +5603,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 12.7 180)
 				(length 5.08)
 				(name "PIN50_B3"
@@ -5621,7 +5621,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 10.16 0)
 				(length 5.08)
 				(name "PIN51_B3"
@@ -5639,7 +5639,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 10.16 180)
 				(length 5.08)
 				(name "PIN52_B3"
@@ -5657,7 +5657,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 7.62 0)
 				(length 5.08)
 				(name "PIN53_B3"
@@ -5675,7 +5675,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 7.62 180)
 				(length 5.08)
 				(name "PIN54_B3"
@@ -5693,7 +5693,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 5.08 0)
 				(length 5.08)
 				(name "PIN55_B3"
@@ -5711,7 +5711,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 5.08 180)
 				(length 5.08)
 				(name "PIN56_B3"
@@ -5729,7 +5729,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 2.54 0)
 				(length 5.08)
 				(name "PIN57_B3"
@@ -5747,7 +5747,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 2.54 180)
 				(length 5.08)
 				(name "PIN58_B3"
@@ -5765,7 +5765,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 0 0)
 				(length 5.08)
 				(name "PIN59_B3"
@@ -5783,7 +5783,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 68.58 180)
 				(length 5.08)
 				(name "PIN6_B3"
@@ -5801,7 +5801,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 0 180)
 				(length 5.08)
 				(name "PIN60_B3"
@@ -5819,7 +5819,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -2.54 0)
 				(length 5.08)
 				(name "PIN61_B3"
@@ -5837,7 +5837,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -2.54 180)
 				(length 5.08)
 				(name "PIN62_B3"
@@ -5855,7 +5855,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -5.08 0)
 				(length 5.08)
 				(name "PIN63_B3"
@@ -5873,7 +5873,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -5.08 180)
 				(length 5.08)
 				(name "PIN64_B3"
@@ -5891,7 +5891,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -7.62 0)
 				(length 5.08)
 				(name "PIN65_B3"
@@ -5909,7 +5909,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -7.62 180)
 				(length 5.08)
 				(name "PIN66_B3"
@@ -5927,7 +5927,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -10.16 0)
 				(length 5.08)
 				(name "PIN67_B3"
@@ -5945,7 +5945,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -10.16 180)
 				(length 5.08)
 				(name "PIN68_B3"
@@ -5963,7 +5963,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -12.7 0)
 				(length 5.08)
 				(name "PIN69_B3"
@@ -5981,7 +5981,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 66.04 0)
 				(length 5.08)
 				(name "PIN7_B3"
@@ -5999,7 +5999,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -12.7 180)
 				(length 5.08)
 				(name "PIN70_B3"
@@ -6017,7 +6017,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -15.24 0)
 				(length 5.08)
 				(name "PIN71_B3"
@@ -6035,7 +6035,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -15.24 180)
 				(length 5.08)
 				(name "PIN72_B3"
@@ -6053,7 +6053,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -17.78 0)
 				(length 5.08)
 				(name "PIN73_B3"
@@ -6071,7 +6071,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -17.78 180)
 				(length 5.08)
 				(name "PIN74_B3"
@@ -6089,7 +6089,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -20.32 0)
 				(length 5.08)
 				(name "PIN75_B3"
@@ -6107,7 +6107,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -20.32 180)
 				(length 5.08)
 				(name "PIN76_B3"
@@ -6125,7 +6125,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -22.86 0)
 				(length 5.08)
 				(name "PIN77_B3"
@@ -6143,7 +6143,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -22.86 180)
 				(length 5.08)
 				(name "PIN78_B3"
@@ -6161,7 +6161,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -25.4 0)
 				(length 5.08)
 				(name "PIN79_B3"
@@ -6179,7 +6179,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 66.04 180)
 				(length 5.08)
 				(name "PIN8_B3"
@@ -6197,7 +6197,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -25.4 180)
 				(length 5.08)
 				(name "PIN80_B3"
@@ -6215,7 +6215,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -27.94 0)
 				(length 5.08)
 				(name "PIN81_B3"
@@ -6233,7 +6233,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -27.94 180)
 				(length 5.08)
 				(name "PIN82_B3"
@@ -6251,7 +6251,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -30.48 0)
 				(length 5.08)
 				(name "PIN83_B3"
@@ -6269,7 +6269,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -30.48 180)
 				(length 5.08)
 				(name "PIN84_B3"
@@ -6287,7 +6287,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -33.02 0)
 				(length 5.08)
 				(name "PIN85_B3"
@@ -6305,7 +6305,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -33.02 180)
 				(length 5.08)
 				(name "PIN86_B3"
@@ -6323,7 +6323,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -35.56 0)
 				(length 5.08)
 				(name "PIN87_B3"
@@ -6341,7 +6341,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -35.56 180)
 				(length 5.08)
 				(name "PIN88_B3"
@@ -6359,7 +6359,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -38.1 0)
 				(length 5.08)
 				(name "PIN89_B3"
@@ -6377,7 +6377,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 63.5 0)
 				(length 5.08)
 				(name "PIN9_B3"
@@ -6395,7 +6395,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -38.1 180)
 				(length 5.08)
 				(name "PIN90_B3"
@@ -6413,7 +6413,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -40.64 0)
 				(length 5.08)
 				(name "PIN91_B3"
@@ -6431,7 +6431,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -40.64 180)
 				(length 5.08)
 				(name "PIN92_B3"
@@ -6449,7 +6449,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -43.18 0)
 				(length 5.08)
 				(name "PIN93_B3"
@@ -6467,7 +6467,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -43.18 180)
 				(length 5.08)
 				(name "PIN94_B3"
@@ -6485,7 +6485,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -45.72 0)
 				(length 5.08)
 				(name "PIN95_B3"
@@ -6503,7 +6503,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -45.72 180)
 				(length 5.08)
 				(name "PIN96_B3"
@@ -6521,7 +6521,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -48.26 0)
 				(length 5.08)
 				(name "PIN97_B3"
@@ -6539,7 +6539,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -48.26 180)
 				(length 5.08)
 				(name "PIN98_B3"
@@ -6557,7 +6557,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -50.8 0)
 				(length 5.08)
 				(name "PIN99_B3"
@@ -6588,7 +6588,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 73.66 0)
 				(length 5.08)
 				(name "PIN1_B4"
@@ -6606,7 +6606,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 63.5 180)
 				(length 5.08)
 				(name "PIN10_B4"
@@ -6624,7 +6624,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -50.8 180)
 				(length 5.08)
 				(name "GND"
@@ -6642,7 +6642,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -53.34 0)
 				(length 5.08)
 				(name "PIN101_B4"
@@ -6660,7 +6660,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -53.34 180)
 				(length 5.08)
 				(name "PIN102_B4"
@@ -6678,7 +6678,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -55.88 0)
 				(length 5.08)
 				(name "GND"
@@ -6696,7 +6696,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -55.88 180)
 				(length 5.08)
 				(name "GND"
@@ -6714,7 +6714,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -58.42 0)
 				(length 5.08)
 				(name "PIN105_B4"
@@ -6732,7 +6732,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -58.42 180)
 				(length 5.08)
 				(name "PIN106_B4"
@@ -6750,7 +6750,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -60.96 0)
 				(length 5.08)
 				(name "GND"
@@ -6768,7 +6768,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -60.96 180)
 				(length 5.08)
 				(name "GND"
@@ -6786,7 +6786,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -63.5 0)
 				(length 5.08)
 				(name "PIN109_B4"
@@ -6804,7 +6804,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 60.96 0)
 				(length 5.08)
 				(name "GND"
@@ -6822,7 +6822,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -63.5 180)
 				(length 5.08)
 				(name "PIN110_B4"
@@ -6840,7 +6840,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -66.04 0)
 				(length 5.08)
 				(name "GND"
@@ -6858,7 +6858,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -66.04 180)
 				(length 5.08)
 				(name "GND"
@@ -6876,7 +6876,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -68.58 0)
 				(length 5.08)
 				(name "PIN113_B4"
@@ -6894,7 +6894,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -68.58 180)
 				(length 5.08)
 				(name "PIN114_B4"
@@ -6912,7 +6912,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -71.12 0)
 				(length 5.08)
 				(name "GND"
@@ -6930,7 +6930,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -71.12 180)
 				(length 5.08)
 				(name "GND"
@@ -6948,7 +6948,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -73.66 0)
 				(length 5.08)
 				(name "PIN117_B4"
@@ -6966,7 +6966,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -73.66 180)
 				(length 5.08)
 				(name "PIN118_B4"
@@ -6984,7 +6984,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -76.2 0)
 				(length 5.08)
 				(name "GND"
@@ -7002,7 +7002,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 60.96 180)
 				(length 5.08)
 				(name "GND"
@@ -7020,7 +7020,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -76.2 180)
 				(length 5.08)
 				(name "GND"
@@ -7038,7 +7038,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 58.42 0)
 				(length 5.08)
 				(name "PIN13_B4"
@@ -7056,7 +7056,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 58.42 180)
 				(length 5.08)
 				(name "PIN14_B4"
@@ -7074,7 +7074,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 55.88 0)
 				(length 5.08)
 				(name "GND"
@@ -7092,7 +7092,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 55.88 180)
 				(length 5.08)
 				(name "GND"
@@ -7110,7 +7110,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 53.34 0)
 				(length 5.08)
 				(name "PIN17_B4"
@@ -7128,7 +7128,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 53.34 180)
 				(length 5.08)
 				(name "PIN18_B4"
@@ -7146,7 +7146,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 50.8 0)
 				(length 5.08)
 				(name "GND"
@@ -7164,7 +7164,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 73.66 180)
 				(length 5.08)
 				(name "PIN2_B4"
@@ -7182,7 +7182,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 50.8 180)
 				(length 5.08)
 				(name "GND"
@@ -7200,7 +7200,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 48.26 0)
 				(length 5.08)
 				(name "PIN21_B4"
@@ -7218,7 +7218,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 48.26 180)
 				(length 5.08)
 				(name "PIN22_B4"
@@ -7236,7 +7236,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 45.72 0)
 				(length 5.08)
 				(name "GND"
@@ -7254,7 +7254,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 45.72 180)
 				(length 5.08)
 				(name "GND"
@@ -7272,7 +7272,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 43.18 0)
 				(length 5.08)
 				(name "PIN25_B4"
@@ -7290,7 +7290,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 43.18 180)
 				(length 5.08)
 				(name "PIN26_B4"
@@ -7308,7 +7308,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 40.64 0)
 				(length 5.08)
 				(name "GND"
@@ -7326,7 +7326,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 40.64 180)
 				(length 5.08)
 				(name "GND"
@@ -7344,7 +7344,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 38.1 0)
 				(length 5.08)
 				(name "PIN29_B4"
@@ -7362,7 +7362,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 71.12 0)
 				(length 5.08)
 				(name "GND"
@@ -7380,7 +7380,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 38.1 180)
 				(length 5.08)
 				(name "PIN30_B4"
@@ -7398,7 +7398,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 35.56 0)
 				(length 5.08)
 				(name "GND"
@@ -7416,7 +7416,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 35.56 180)
 				(length 5.08)
 				(name "GND"
@@ -7434,7 +7434,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 33.02 0)
 				(length 5.08)
 				(name "PIN33_B4"
@@ -7452,7 +7452,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 33.02 180)
 				(length 5.08)
 				(name "PIN34_B4"
@@ -7470,7 +7470,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 30.48 0)
 				(length 5.08)
 				(name "GND"
@@ -7488,7 +7488,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 30.48 180)
 				(length 5.08)
 				(name "GND"
@@ -7506,7 +7506,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 27.94 0)
 				(length 5.08)
 				(name "PIN37_B4"
@@ -7524,7 +7524,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 27.94 180)
 				(length 5.08)
 				(name "PIN38_B4"
@@ -7542,7 +7542,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 25.4 0)
 				(length 5.08)
 				(name "GND"
@@ -7560,7 +7560,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 71.12 180)
 				(length 5.08)
 				(name "GND"
@@ -7578,7 +7578,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 25.4 180)
 				(length 5.08)
 				(name "GND"
@@ -7596,7 +7596,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 22.86 0)
 				(length 5.08)
 				(name "PIN41_B4"
@@ -7614,7 +7614,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 22.86 180)
 				(length 5.08)
 				(name "PIN42_B4"
@@ -7632,7 +7632,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 20.32 0)
 				(length 5.08)
 				(name "GND"
@@ -7650,7 +7650,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 20.32 180)
 				(length 5.08)
 				(name "GND"
@@ -7668,7 +7668,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 17.78 0)
 				(length 5.08)
 				(name "PIN45_B4"
@@ -7686,7 +7686,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 17.78 180)
 				(length 5.08)
 				(name "PIN46_B4"
@@ -7704,7 +7704,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 15.24 0)
 				(length 5.08)
 				(name "GND"
@@ -7722,7 +7722,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 15.24 180)
 				(length 5.08)
 				(name "GND"
@@ -7740,7 +7740,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 12.7 0)
 				(length 5.08)
 				(name "PIN49_B4"
@@ -7758,7 +7758,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 68.58 0)
 				(length 5.08)
 				(name "PIN5_B4"
@@ -7776,7 +7776,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 12.7 180)
 				(length 5.08)
 				(name "PIN50_B4"
@@ -7794,7 +7794,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 10.16 0)
 				(length 5.08)
 				(name "GND"
@@ -7812,7 +7812,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 10.16 180)
 				(length 5.08)
 				(name "GND"
@@ -7830,7 +7830,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 7.62 0)
 				(length 5.08)
 				(name "PIN53_B4"
@@ -7848,7 +7848,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 7.62 180)
 				(length 5.08)
 				(name "PIN54_B4"
@@ -7866,7 +7866,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 5.08 0)
 				(length 5.08)
 				(name "GND"
@@ -7884,7 +7884,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 5.08 180)
 				(length 5.08)
 				(name "GND"
@@ -7902,7 +7902,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 2.54 0)
 				(length 5.08)
 				(name "PIN57_B4"
@@ -7920,7 +7920,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 2.54 180)
 				(length 5.08)
 				(name "PIN58_B4"
@@ -7938,7 +7938,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 0 0)
 				(length 5.08)
 				(name "GND"
@@ -7956,7 +7956,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 68.58 180)
 				(length 5.08)
 				(name "PIN6_B4"
@@ -7974,7 +7974,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 0 180)
 				(length 5.08)
 				(name "GND"
@@ -7992,7 +7992,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -2.54 0)
 				(length 5.08)
 				(name "PIN61_B4"
@@ -8010,7 +8010,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -2.54 180)
 				(length 5.08)
 				(name "PIN62_B4"
@@ -8028,7 +8028,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -5.08 0)
 				(length 5.08)
 				(name "GND"
@@ -8046,7 +8046,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -5.08 180)
 				(length 5.08)
 				(name "GND"
@@ -8064,7 +8064,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -7.62 0)
 				(length 5.08)
 				(name "PIN65_B4"
@@ -8082,7 +8082,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -7.62 180)
 				(length 5.08)
 				(name "PIN66_B4"
@@ -8100,7 +8100,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -10.16 0)
 				(length 5.08)
 				(name "GND"
@@ -8118,7 +8118,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -10.16 180)
 				(length 5.08)
 				(name "GND"
@@ -8136,7 +8136,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -12.7 0)
 				(length 5.08)
 				(name "PIN69_B4"
@@ -8154,7 +8154,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 66.04 0)
 				(length 5.08)
 				(name "GND"
@@ -8172,7 +8172,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -12.7 180)
 				(length 5.08)
 				(name "PIN70_B4"
@@ -8190,7 +8190,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -15.24 0)
 				(length 5.08)
 				(name "GND"
@@ -8208,7 +8208,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -15.24 180)
 				(length 5.08)
 				(name "GND"
@@ -8226,7 +8226,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -17.78 0)
 				(length 5.08)
 				(name "PIN73_B4"
@@ -8244,7 +8244,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -17.78 180)
 				(length 5.08)
 				(name "PIN74_B4"
@@ -8262,7 +8262,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -20.32 0)
 				(length 5.08)
 				(name "GND"
@@ -8280,7 +8280,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -20.32 180)
 				(length 5.08)
 				(name "GND"
@@ -8298,7 +8298,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -22.86 0)
 				(length 5.08)
 				(name "PIN77_B4"
@@ -8316,7 +8316,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -22.86 180)
 				(length 5.08)
 				(name "PIN78_B4"
@@ -8334,7 +8334,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -25.4 0)
 				(length 5.08)
 				(name "GND"
@@ -8352,7 +8352,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 66.04 180)
 				(length 5.08)
 				(name "GND"
@@ -8370,7 +8370,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -25.4 180)
 				(length 5.08)
 				(name "GND"
@@ -8388,7 +8388,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -27.94 0)
 				(length 5.08)
 				(name "PIN81_B4"
@@ -8406,7 +8406,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -27.94 180)
 				(length 5.08)
 				(name "PIN82_B4"
@@ -8424,7 +8424,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -30.48 0)
 				(length 5.08)
 				(name "GND"
@@ -8442,7 +8442,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -30.48 180)
 				(length 5.08)
 				(name "GND"
@@ -8460,7 +8460,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -33.02 0)
 				(length 5.08)
 				(name "PIN85_B4"
@@ -8478,7 +8478,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -33.02 180)
 				(length 5.08)
 				(name "PIN86_B4"
@@ -8496,7 +8496,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -35.56 0)
 				(length 5.08)
 				(name "GND"
@@ -8514,7 +8514,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -35.56 180)
 				(length 5.08)
 				(name "GND"
@@ -8532,7 +8532,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -38.1 0)
 				(length 5.08)
 				(name "PIN89_B4"
@@ -8550,7 +8550,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 63.5 0)
 				(length 5.08)
 				(name "PIN9_B4"
@@ -8568,7 +8568,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -38.1 180)
 				(length 5.08)
 				(name "PIN90_B4"
@@ -8586,7 +8586,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -40.64 0)
 				(length 5.08)
 				(name "GND"
@@ -8604,7 +8604,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -40.64 180)
 				(length 5.08)
 				(name "GND"
@@ -8622,7 +8622,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -43.18 0)
 				(length 5.08)
 				(name "PIN93_B4"
@@ -8640,7 +8640,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -43.18 180)
 				(length 5.08)
 				(name "PIN94_B4"
@@ -8658,7 +8658,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -45.72 0)
 				(length 5.08)
 				(name "GND"
@@ -8676,7 +8676,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at 16.51 -45.72 180)
 				(length 5.08)
 				(name "GND"
@@ -8694,7 +8694,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -16.51 -48.26 0)
 				(length 5.08)
 				(name "PIN97_B4"
@@ -8712,7 +8712,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at 16.51 -48.26 180)
 				(length 5.08)
 				(name "PIN98_B4"
@@ -8730,7 +8730,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin power_in line
 				(at -16.51 -50.8 0)
 				(length 5.08)
 				(name "GND"

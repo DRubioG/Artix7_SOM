@@ -6624,10 +6624,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -50.8 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN100_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6678,10 +6678,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -55.88 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN103_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6696,10 +6696,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -55.88 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN104_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6750,10 +6750,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -60.96 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN107_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6768,10 +6768,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -60.96 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN108_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6804,10 +6804,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 60.96 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN11_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6840,10 +6840,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -66.04 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN111_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6858,10 +6858,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -66.04 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN112_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6912,10 +6912,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -71.12 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN115_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6930,10 +6930,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -71.12 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN116_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6984,10 +6984,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -76.2 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN119_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7002,10 +7002,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 60.96 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN12_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7020,10 +7020,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -76.2 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN120_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7074,10 +7074,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 55.88 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN15_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7092,10 +7092,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 55.88 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN16_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7146,10 +7146,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 50.8 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN19_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7182,10 +7182,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 50.8 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN20_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7236,10 +7236,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 45.72 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN23_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7254,10 +7254,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 45.72 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN24_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7308,10 +7308,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 40.64 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN27_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7326,10 +7326,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 40.64 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN28_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7362,10 +7362,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 71.12 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN3_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7398,10 +7398,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 35.56 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN31_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7416,10 +7416,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 35.56 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN32_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7470,10 +7470,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 30.48 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN35_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7488,10 +7488,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 30.48 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN36_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7542,10 +7542,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 25.4 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN39_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7560,10 +7560,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 71.12 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN4_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7578,10 +7578,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 25.4 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN40_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7632,10 +7632,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 20.32 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN43_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7650,10 +7650,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 20.32 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN44_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7704,10 +7704,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 15.24 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN47_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7722,10 +7722,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 15.24 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN48_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7794,10 +7794,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 10.16 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN51_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7812,10 +7812,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 10.16 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN52_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7866,10 +7866,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 5.08 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN55_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7884,10 +7884,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 5.08 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN56_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7938,10 +7938,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 0 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN59_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -7974,10 +7974,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 0 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN60_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8028,10 +8028,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -5.08 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN63_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8046,10 +8046,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -5.08 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN64_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8100,10 +8100,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -10.16 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN67_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8118,10 +8118,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -10.16 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN68_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8154,10 +8154,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 66.04 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN7_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8190,10 +8190,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -15.24 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN71_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8208,10 +8208,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -15.24 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN72_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8262,10 +8262,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -20.32 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN75_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8280,10 +8280,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -20.32 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN76_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8334,10 +8334,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -25.4 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN79_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8352,10 +8352,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 66.04 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN8_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8370,10 +8370,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -25.4 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN80_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8424,10 +8424,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -30.48 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN93_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8442,10 +8442,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -30.48 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN84_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8496,10 +8496,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -35.56 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN87_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8514,10 +8514,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -35.56 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN88_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8586,10 +8586,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -40.64 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN91_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8604,10 +8604,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -40.64 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN92_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8658,10 +8658,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -45.72 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN95_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8676,10 +8676,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at 16.51 -45.72 180)
 				(length 5.08)
-				(name "GND"
+				(name "PIN96_B4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -8730,10 +8730,10 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin bidirectional line
 				(at -16.51 -50.8 0)
 				(length 5.08)
-				(name "GND"
+				(name "PIN99_B4"
 					(effects
 						(font
 							(size 1.27 1.27)

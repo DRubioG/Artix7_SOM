@@ -14074,7 +14074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "680a9e2d-c4d0-4b62-84f9-156b4dbf4d95")
-		(property "Reference" "J1"
+		(property "Reference" "J?"
 			(at 129.54 53.34 0)
 			(effects
 				(font
@@ -15556,6 +15556,14 @@
 		)
 		(pin "117"
 			(uuid "1547f2c1-56d3-437f-a3fd-555b4bfdd7eb")
+		)
+		(instances
+			(project "Artix_SOM"
+				(path "/c2221598-f078-4310-82f6-aed2a006194d/12c2dede-18ee-4a62-9b3f-2a242fe2e990"
+					(reference "J?")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
