@@ -93,7 +93,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "7608910d-1e87-4536-be60-73310a34b1c1")
-		(property "Sheetname" "pinout2"
+		(property "Sheetname" "FPGA_2"
 			(at 100.33 88.1884 0)
 			(effects
 				(font
@@ -102,7 +102,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "pinout2.kicad_sch"
+		(property "Sheetfile" "FPGA_2.kicad_sch"
 			(at 100.33 107.2646 0)
 			(effects
 				(font
@@ -245,7 +245,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "bd10cccd-3037-4212-9e2b-2756ea7018a0")
-		(property "Sheetname" "pinout"
+		(property "Sheetname" "FPGA_1"
 			(at 100.33 61.5184 0)
 			(effects
 				(font
@@ -254,7 +254,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "pinout.kicad_sch"
+		(property "Sheetfile" "FPGA_1.kicad_sch"
 			(at 100.33 80.5946 0)
 			(effects
 				(font

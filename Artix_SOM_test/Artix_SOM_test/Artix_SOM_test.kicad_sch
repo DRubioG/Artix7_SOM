@@ -82,6 +82,44 @@
 		)
 	)
 	(sheet
+		(at 100.33 63.5)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "94558e8d-e278-452c-a9e3-f361768b19ab")
+		(property "Sheetname" "External_connections"
+			(at 100.33 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "External_connections.kicad_sch"
+			(at 100.33 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Artix_SOM_test"
+				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 67.31 91.44)
 		(size 25.4 15.24)
 		(fields_autoplaced yes)
@@ -114,7 +152,7 @@
 		(instances
 			(project "Artix_SOM_test"
 				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707"
-					(page "6")
+					(page "5")
 				)
 			)
 		)

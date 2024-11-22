@@ -8753,7 +8753,7 @@
 				)
 			)
 		)
-		(symbol "power:+5V"
+		(symbol "power:+12V"
 			(power)
 			(pin_numbers hide)
 			(pin_names
@@ -8770,7 +8770,7 @@
 					(hide yes)
 				)
 			)
-			(property "Value" "+5V"
+			(property "Value" "+12V"
 				(at 0 3.556 0)
 				(effects
 					(font
@@ -8796,7 +8796,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(property "Description" "Power symbol creates a global label with name \"+12V\""
 				(at 0 0 0)
 				(effects
 					(font
@@ -8814,7 +8814,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "+5V_0_1"
+			(symbol "+12V_0_1"
 				(polyline
 					(pts
 						(xy -0.762 1.27) (xy 0 2.54)
@@ -8852,7 +8852,7 @@
 					)
 				)
 			)
-			(symbol "+5V_1_1"
+			(symbol "+12V_1_1"
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
@@ -15771,7 +15771,7 @@
 		)
 	)
 	(global_label "TMS"
-		(shape output)
+		(shape input)
 		(at 109.22 207.01 180)
 		(effects
 			(font
@@ -16237,7 +16237,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
+		(lib_id "power:+12V")
 		(at 133.35 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16245,8 +16245,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "7f0b0a0c-ae4f-4a7b-9b5e-2cbc38bb945c")
-		(property "Reference" "#PWR01"
+		(uuid "8c78a2f4-575d-4545-9fcd-bcca36a3e628")
+		(property "Reference" "#PWR05"
 			(at 133.35 45.72 0)
 			(effects
 				(font
@@ -16255,7 +16255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+5V"
+		(property "Value" "+12V"
 			(at 133.35 36.83 0)
 			(effects
 				(font
@@ -16281,7 +16281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
 			(at 133.35 41.91 0)
 			(effects
 				(font
@@ -16291,12 +16291,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a1e49419-c90f-45c4-ae00-f693aee8af3e")
+			(uuid "c7cf1f22-f77a-48aa-94ec-b55530c5d4ad")
 		)
 		(instances
-			(project "Artix_SOM_test"
+			(project ""
 				(path "/850c0667-07a1-4e76-ae5f-fa993a9f1707/8d5f8730-6ad4-4b53-a9a8-f09b304b689f"
-					(reference "#PWR01")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)

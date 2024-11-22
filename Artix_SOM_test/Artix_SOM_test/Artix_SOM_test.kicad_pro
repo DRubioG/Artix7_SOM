@@ -568,7 +568,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "intersheets_ref_own_page": false,
+      "intersheets_ref_own_page": true,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -598,7 +598,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "/home/dxd/Escritorio/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -611,7 +611,7 @@
   "sheets": [
     [
       "850c0667-07a1-4e76-ae5f-fa993a9f1707",
-      "Raíz"
+      "Root"
     ],
     [
       "8d5f8730-6ad4-4b53-a9a8-f09b304b689f",
@@ -628,6 +628,10 @@
     [
       "9c583fdf-73ab-4ea0-9807-d5a2367303f7",
       "Test_B3_B4"
+    ],
+    [
+      "94558e8d-e278-452c-a9e3-f361768b19ab",
+      "External_connections"
     ]
   ],
   "text_variables": {}

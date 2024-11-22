@@ -18762,6 +18762,66 @@
 		(uuid "fffe1c6b-d9a8-4db2-9eed-abd284c72fa4")
 	)
 	(rectangle
+		(start 163.83 125.73)
+		(end 293.37 170.18)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 037cc41b-120c-470a-b392-7d7656da32e7)
+	)
+	(rectangle
+		(start 163.83 217.17)
+		(end 293.37 269.24)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 26ce47a6-6626-4871-a7eb-986e65128985)
+	)
+	(rectangle
+		(start 163.83 74.93)
+		(end 293.37 124.46)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4cc2848d-35ec-4350-98c2-bb8fb26a5ad7)
+	)
+	(rectangle
+		(start 163.83 171.45)
+		(end 293.37 215.9)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 59f2f8e3-b6de-4966-8c41-0e85a4d1834b)
+	)
+	(rectangle
+		(start 163.83 20.32)
+		(end 293.37 72.39)
+		(stroke
+			(width 0)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5a0f5ac1-9479-480f-b22b-89f234ddd4ca)
+	)
+	(rectangle
 		(start 160.02 17.78)
 		(end 297.18 279.4)
 		(stroke
@@ -21269,7 +21329,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5078c136-a0bc-4883-bfab-40a2b0bf9d5b")
 		(property "Reference" "#PWR0113"
 			(at 262.89 172.72 0)
@@ -21281,7 +21340,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 171.45 0)
+			(at 258.572 167.132 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22647,10 +22706,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "80fd4c73-552b-41fb-918a-d0b04361980c")
 		(property "Reference" "C16"
-			(at 245.11 167.64 90)
+			(at 240.538 173.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22658,7 +22716,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 245.11 170.18 90)
+			(at 249.936 174.244 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22984,7 +23042,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8a93bd1d-c0a5-43e7-9284-5f05b85008d0")
 		(property "Reference" "#PWR0100"
 			(at 262.89 72.39 0)
@@ -22996,7 +23053,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 71.12 0)
+			(at 259.08 66.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23323,7 +23380,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "96899cb5-f476-4c11-8688-641d0af09036")
 		(property "Reference" "#PWR0125"
 			(at 262.89 270.51 0)
@@ -23335,7 +23391,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 269.24 0)
+			(at 258.572 265.684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23991,7 +24047,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "aa58ccf8-713f-40b5-b185-7f89b3971e80")
 		(property "Reference" "#PWR0119"
 			(at 262.89 218.44 0)
@@ -24003,7 +24058,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 217.17 0)
+			(at 258.318 213.614 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25082,7 +25137,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c4e6d2ae-4bbd-49bb-8e1d-24d0d66f398c")
 		(property "Reference" "#PWR099"
 			(at 276.86 68.58 0)
@@ -25094,7 +25148,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 276.86 67.31 0)
+			(at 280.162 64.262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26434,10 +26488,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ee0d42e2-5004-498d-a20f-2df0b2f456dc")
 		(property "Reference" "C12"
-			(at 245.11 121.92 90)
+			(at 240.284 127.508 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26445,7 +26498,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 245.11 124.46 90)
+			(at 251.968 127.508 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26568,7 +26621,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f2693cbc-6128-43f0-8a91-62d8c5619e77")
 		(property "Reference" "#PWR0107"
 			(at 262.89 127 0)
@@ -26580,7 +26632,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 262.89 125.73 0)
+			(at 258.572 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
